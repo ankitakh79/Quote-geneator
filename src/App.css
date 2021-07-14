@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.card-body {
+  margin: 7rem;
+  padding: 2rem;
+  height: 80%;
+  width: 80%;
+  border: 2px solid black;
+  border-radius: 4rem;
+  color: white;
+}
+.card-text {
+  font-size: 25px;
+}
+.card-title {
+  font-size: 18px;
+}
+
+.card-heading {
+  font-size: 35px;
+  font-weight: 10px;
+}
+
+.btn {
+  font-size: 17px;
+  padding: 1rem;
+  color: white;
+  border-radius: 1rem;
+}
+.card-color {
+  background-color: purple;
+}
+.ml-3 {
+  margin-left: 50px;
+}
